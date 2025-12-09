@@ -1,10 +1,7 @@
-## Hello 👋 I am AARYA KARUNAKARAN.
+## Hello 👋 I'm AARYA KARUNAKARAN.
 
 
 
-First of all, thanks for visiting my profile. Here, what you should know about me:
-
-👋 Hi, I'm Aarya Karunakaran!
 
 - 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
 - 💻 My tech stack revolves around Java, Python, JavaScript, C, HTML, CSS and MySQL.
