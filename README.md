@@ -29,6 +29,24 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 <!-- ----------- TECH STACK SECTION END------------ -->
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/aarya-ak">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aarya-ak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  
+
+</a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarya-karunakaran" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aarya_linkedIn"/></a> 
+<br>
+<br>
+</p>
+
+<hr>
 
 
 
