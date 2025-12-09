@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hello 👋 I am AARYA KARUNAKARAN.
 
-<!--
-**aarya-ak/aarya-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First of all, thanks for visiting my profile. Here, what you should know about me:
+
+👋 Hi, I'm Aarya Karunakaran!
+
+- 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
+- 💻 My tech stack revolves around Java, Python, JavaScript, C, HTML, CSS and MySQL.
+- 💡 I'm always interested in learning more about system design, data structures, and fundamental computer concepts.
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=for-the-badge&logo=databases&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-%2300599C.svg?style=for-the-badge&logo=algorithms&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+<hr>
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/aarya-karunakaran
+[github]:https://github.com/aarya-ak
+[gmail]:mailto:aaryaskarunakaran@gmail.com
