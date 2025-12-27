@@ -55,4 +55,4 @@
 
 [linkedin]: https://www.linkedin.com/in/aarya-karunakaran
 [github]:https://github.com/aarya-ak
-[gmail]:mailto:aaryaskarunakaran@gmail.com
+[gmail]:aaryaskarunakaran@gmail.com
