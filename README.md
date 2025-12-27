@@ -44,7 +44,7 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/aarya-karunakaran/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anchal_linkedIn"/></a> 
+ <a href="https://www.linkedin.com/in/aarya-karunakaran/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aarya_linkedIn"/></a> 
 <br>
 <br>
 <a href="mailto:aaryaskarunakaran@gmail.com   " target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
