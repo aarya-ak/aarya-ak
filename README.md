@@ -50,7 +50,7 @@
 <a href="mailto:aaryaskarunakaran@gmail.com   " target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
  <br>
    <br>
-  <a href="https://www.hackerrank.com/profile/aaryakarunakara1" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="aarya_hackerrank"/></a>
+  <a href="https://www.hackerrank.com/profile/aaryakarunakaran" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="aarya_hackerrank"/></a>
 </p>
 
 <hr>
